@@ -1,0 +1,7 @@
+kind: Dependencies
+body: Support google-cloud-bigquery 3.x.x dependency ([#332](https://github.com/dbt-labs/dbt-bigquery/pull/332)
+time: 2022-10-10T18:02:20.347055+01:00
+custom:
+  Author: eplus-aolalere
+  Issue: "269"
+  PR: "332"
